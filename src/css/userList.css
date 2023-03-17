@@ -1,0 +1,20 @@
+.main {
+
+    border-radius: '5px';
+    height: 40rem;
+    width: 35rem;
+}
+
+.title {
+    font-weight: 'bold'
+}
+
+.userList {
+    border: ' 1px solid #EEEEEE';
+    padding: '10px',
+}
+
+img {
+    width: '40px';
+    border-radius: '230px';
+}
